@@ -191,7 +191,7 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 * Querying real-world biomedical and archival data APIs
 
 ### Resources:
-* [Python-JSON-Workshop](https://github.com/UCSF-DSOS/Python-JSON-Workshop) — Full Tutorial for working with APIs with Python and JSON.
+* [Python-JSON-Workshop](https://github.com/geoffswc/Python-JSON-Workshop) — Full Tutorial for working with APIs with Python and JSON.
 * [`Python-Dictionaries.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Dictionaries.ipynb) — Introduction to dictionaries and key/value storage.
 * [`Caffeine-Dictionary.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Caffeine-Dictionary.ipynb) — Example project mapping caffeine content in beverages.
 * [`Web-API-Python.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Web-API-Python.ipynb) — Accessing and parsing data from RXNorm API.
