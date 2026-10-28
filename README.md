@@ -265,7 +265,7 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 * [`Multiple-Document.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Multiple-Document.ipynb) — Extending techniques to multiple documents.
 
 ### Workshop Repository:
-* [Document Classification](https://github.com/UCSF-DSOS/Document-Classification) — Workbooks and tutorial links for document classification, including text preparation.
+* [Python Background for Text Analysis](https://ucsf-dsos.github.io/Machine-Learning-NLP-Prep/) — Workbooks and tutorial links for document classification, including text preparation.
 
 ### Sample dataset:
 * [UCSF Box Sample Dataset](https://ucsf.app.box.com/v/IDL-DataSets/file/780928732201)
