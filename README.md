@@ -81,7 +81,6 @@ This section introduces fundamental Python programming concepts including variab
 
 ### Recordings:
 * [Spring 2025 UCSF Workshop Recording](https://media.ucsf.edu/media/Variables-Lists-Loops-Conditionals/1_4n0afrx6)
-* [UCSF CLE Page](https://courses.ucsf.edu/course/view.php?id=5281)
 
 ---
 
@@ -355,7 +354,6 @@ Introduces version control and collaborative workflows using Git and GitHub, inc
 ### Resources:
 * [Sample Repository](https://github.com/UCSF-DSOS/My-Project/)
 * [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
-* [UCSF CLE Recording](https://courses.ucsf.edu/course/view.php?id=5208)
 * [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Recordings:
