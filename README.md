@@ -55,14 +55,6 @@ For more information, see [Workshop_Coding_Environment.md](https://github.com/UC
 
 ---
 
-## Workshop Series Data and Learning Resources
-
-See the Learning Resources page for a collection of external links, tutorials, and data sources related to this workshop series.
-
-* [Learning Resources](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/LEARNING-RESOURCES.md)
-
----
-
 ## Intro to Python Part 1: Variables, Lists, Loops, Conditionals
 
 This section introduces fundamental Python programming concepts including variables, data types, lists, loops, and conditionals. It follows the Software Carpentry Python Novice Gapminder tutorial to provide hands-on examples and exercises.
