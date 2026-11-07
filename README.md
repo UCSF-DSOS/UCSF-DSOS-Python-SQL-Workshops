@@ -164,6 +164,7 @@ Learners explore how to load datasets and analyze them using both Python and SQL
 This workshop contains material similar to Intro to Python and SQL Part 1 (above). The main difference is that this workshop uses DuckDB instead of PandaSQL and makes much greater use of GenAI to create code and write SQL queries. The material in the previous two workshops is still helpful, and the SQL statements will be the same regardless of whether you use PandaSQL or DuckDB. However, unless you have a particular legacy reason to use PandaSQL, I'd recommend going with DuckDB for running SQL statements on Pandas dataframes.
 
 ### Resources:
+* [Machine Learning - Covid Test Predictions](https://ucsf-dsos.github.io/Machine-Learning-Covid-Predictions/) — Expanded Workshop Material for scikit-learn and covid testing data
 * Notebooks:
   * [`Python-Pandas-DuckDB-Covid-Data.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Pandas-DuckDB-Covid-Data.ipynb)
 
