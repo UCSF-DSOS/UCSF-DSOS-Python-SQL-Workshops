@@ -290,9 +290,11 @@ Explores text classification techniques including bag-of-words, random forest cl
 * Using scikit-learn pipelines for streamlined workflows
 
 ### Resources:
-* [`Document Classification`](https://ucsf-dsos.github.io/Document-Classification/) — Expanded Tutorial classifying documents using scikit-learn.
 * [`Random_Forest_Simple.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Random_Forest_Simple.ipynb) — Simple example using two short movie reviews to illustrate sentiment analysis.
 * [`Movie_Review_Pipeline.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Movie_Review_Pipeline.ipynb) — Classification example using movie review dataset from NLTK.
+
+### Workshop Repository:
+* [`Document Classification`](https://ucsf-dsos.github.io/Document-Classification/) — Expanded workshop material classifying documents using scikit-learn.
 
 ### Links:
 * [Scikit-Learn Documentation](https://scikit-learn.org/stable/)
