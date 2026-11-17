@@ -309,9 +309,12 @@ Explores text classification techniques including bag-of-words, random forest cl
 
 Unsupervised learning for discovering latent topics in text collections using K-Means Clustering.
 
-### Workshop Resources:
+### Resources:
 * [`Simple-Kmeans.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Simple-Kmeans.ipynb) — Simple example using K-Means Clustering to illustrate unsupervised machine learning.
 * [`k-means-visualization.png`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/visualizations/k-means-visualization.png)
+
+### Workshop Repository:
+* [Topic Modeling with Unsupervised Machine Learning](https://ucsf-dsos.github.io/Topic-Modeling-Unsupervised-ML/) — Workshop material for  topic modeling in Python using K-means clustering and latent Dirichlet allocation (LDA).
 
 ### Tutorials and Code Samples:
 * [Scikit-learn tutorial: Clustering text documents using k-means](https://scikit-learn.org/stable/auto_examples/text/plot_document_clustering.html#sphx-glr-auto-examples-text-plot-document-clustering-py)
