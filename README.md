@@ -348,7 +348,6 @@ Using external APIs and libraries like Google Cloud NLP, VADER, and zero-shot Hu
 Introduces version control and collaborative workflows using Git and GitHub, including sample projects and workshop materials.
 
 ### Resources:
-* [Sample Repository](https://github.com/UCSF-DSOS/My-Project/)
 * [Software Carpentry Git Workshop](https://swcarpentry.github.io/git-novice/)
 * [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
