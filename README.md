@@ -150,7 +150,7 @@ This section covers Python lists, loops and conditionals for the first half, the
 ### Resources:
 * [`Covid_Mock_Data.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Mock_Data.ipynb) — Using generative AI to create synthetic datasets.
 * [`Covid_Queries.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Queries.ipynb) — Running SQL queries on COVID data in Google Colab.
-* [`Covid_Queries_Local.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Queries_Local.ipynb) — Local SQL querying via pandasql.
+* [`Covid-Queries-Local.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Covid_Queries_Local.ipynb) — Local SQL querying via pandasql.
 
 ### Recordings:
 * [Data Analysis with Python and SQL Part 2 Workshop Recording](https://media.ucsf.edu/media/t/1_abvrwg4h)
