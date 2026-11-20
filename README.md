@@ -217,7 +217,6 @@ Focuses on converting multimedia content to text using optical character recogni
 
 ### Resources:
 * [`Py_Tesseract_OCR.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Py_Tesseract_OCR.ipynb) — Applying OCR to scanned images.
-* [`Doctr_Ocr.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Doctr_Ocr.ipynb) — Exploring other OCR tools.
 * [`Whisper_AI_Transcription.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Whisper_AI_Transcription.ipynb) — Audio/video transcription workflows.
 * [`Whisper_Diarized_Pipeline.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Whisper_Diarized_Pipeline.ipynb) — Diarization for speaker separation.
 
@@ -237,9 +236,7 @@ Introduction to annotating images and detecting objects using TensorFlow and clo
 * Using a GenAI approach to identifying objects in an image frame
 
 ### Resources:
-* [`TensorFlow_Labels.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/TensorFlow_Labels.ipynb) — Hands-on object labeling with TensorFlow.
 * [Google Cloud Vision API](https://cloud.google.com/vision)
-* [Use a Hybrid GenAI approach to identify imagery in a video](https://github.com/UCSF-DSOS/Identify-Imagery-GenAI)
 
 ---
 
