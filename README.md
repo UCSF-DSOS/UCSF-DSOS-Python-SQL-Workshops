@@ -183,7 +183,7 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 * Querying real-world biomedical and archival data APIs
 
 ### Resources:
-* [Python-JSON-API-Workshop](https://ucsf-dsos.github.io/Python-JSON-API-Workshop/) — Expanded Tutorial for working with APIs with Python and JSON.
+* [Python-JSON-API-Workshop](https://ucsf-dsos.github.io/Python-JSON-API-Workshop/) — 
 * [`Python-Dictionaries.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Dictionaries.ipynb) — Introduction to dictionaries and key/value storage.
 * [`Caffeine-Dictionary.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Caffeine-Dictionary.ipynb) — Example project mapping caffeine content in beverages.
 * [`Web-API-Python.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Web-API-Python.ipynb) — Accessing and parsing data from RXNorm API.
@@ -269,7 +269,7 @@ Covers foundational NLP techniques such as cleaning text, tokenization, stop wor
 Introduction to supervised machine learning for classification problems using COVID symptom data. Emphasizes practical model building with scikit-learn.
 
 ### Resources:
-* [Course GitHub Repository](https://github.com/UCSF-DSOS/Covid-Test-Predictions) — Repository for simple random forest model with minimal dataset.
+* [Course GitHub Repository](https://ucsf-dsos.github.io/Machine-Learning-Covid-Predictions/) — Workshop repository for working with scikit-learn and covid testing data.
 * [`ML-Covid-Data.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/ML-Covid-Data.ipynb) — Machine learning code generated with ChatGPT and modified during the May 2026 workshop.
 
 ### Recordings:
