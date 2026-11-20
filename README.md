@@ -187,7 +187,7 @@ This section covers how to work with Python dictionaries and parse JSON data fro
 * [`Python-Dictionaries.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Python-Dictionaries.ipynb) — Introduction to dictionaries and key/value storage.
 * [`Caffeine-Dictionary.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Caffeine-Dictionary.ipynb) — Example project mapping caffeine content in beverages.
 * [`Web-API-Python.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Web-API-Python.ipynb) — Accessing and parsing data from RXNorm API.
-* [`Industry_Documents_API.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry_Documents_API.ipynb) and [`Industry-Documents-ApiB.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry-Documents-ApiB.ipynb) — Using UCSF’s Industry Documents Library API for archival research.
+* [`Industry_Documents_API.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry_Documents_API.ipynb) and [`Industry-Documents-ApiB.ipynb`](https://github.com/UCSF-DSOS/UCSF-DSOS-Python-SQL-Workshops/blob/main/Industry-Documents-Api-B.ipynb) — Using UCSF’s Industry Documents Library API for archival research.
 
 ### Recordings:
 * [Python and Web APIs Workshop Recording](https://media.ucsf.edu/media/Python-Web-API/1_2j7irpnk)
