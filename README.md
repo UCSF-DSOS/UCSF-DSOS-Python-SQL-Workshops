@@ -393,4 +393,4 @@ Geoffrey Boushey is a computational and research data science specialist at UCSF
 
 ## Upcoming Sessions
 
-To check if this workshop series is being delivered in person within the next three months, see the [Data Science Initiative Calendar](https://library.ucsf.edu/data-science). All members of the UCSF community are welcome to register.
+To check if this workshop series is being delivered in person within the next three months, see the [UCSF Library Data Science And Open Scholarship Calendar](https://library.ucsf.edu/data-science). All members of the UCSF community are welcome to register.
